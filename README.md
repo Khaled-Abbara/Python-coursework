@@ -1,10 +1,5 @@
-# Python-lessons
-This is a Repo that contains all the python lessons that I have made for my students to teach them programing
+# Python
 
-In this I included Explanations, examples and, questions
+This repository contains a collection of Python code from my university coursework and assignments across various courses.
 
-I will be also making use of teaching different Ai tools during my lessons so students can have an even greater advantage if they are to become future programmers.
-
-Please feel free to fork this or even contribute to it!
-
-MIT license
+Licensed under the [MIT License](LICENSE).
